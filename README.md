@@ -93,11 +93,13 @@ Full-stack relationship tracker for couples — diary, monthly journals, outings
 </td>
 <td valign="top" width="33%">
 
-#### `iii.` GlobalHitss internal
+#### `iii.` momentumML
 
-*Source not public.*
+Python · PySpark · scikit-learn · Hyperopt · MLflow · Unity Catalog
 
-Proprietary Python ML framework adopted by **5+ internal teams** (−40% dev time). Churn / propensity models touching **2M+ users** with **+15% AUC**. GANs generating synthetic data (**+300%** training set growth). FastAPI inference at **50K+ req/day**.
+End-to-end MLOps toolkit: multi-backend training, calibration, ensembles, MLflow + UC publishing. Originally my **M.Sc. thesis at Universidad del Rosario**, now in enterprise production — **5+ teams** adopted, **−40%** dev time, **+15% AUC** on churn/propensity, **50K+ req/day**, **10M+ records/day**.
+
+[`Repo →`](https://github.com/camilo-acevedo/MomentumML)
 
 </td>
 </tr>
@@ -108,7 +110,6 @@ Proprietary Python ML framework adopted by **5+ internal teams** (−40% dev tim
 ### `05 ─ On the bench`
 
 ```
-mlops-recipes   →   production MLOps templates — drift loops, retraining, registry patterns
 rag-kitchen     →   RAG cookbook — grounding, evaluation, governance hooks
 tunescope       →   Spotify listening dashboard with mood detection
 gym-loop        →   minimal, opinionated workout tracker
