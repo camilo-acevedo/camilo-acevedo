@@ -107,17 +107,48 @@ End-to-end MLOps toolkit: multi-backend training, calibration, ensembles, MLflow
 
 <br/>
 
-### `05 ─ On the bench`
+#### Coming soon
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**`ML / AI`**
 
 ```
-rag-kitchen     →   RAG cookbook — grounding, evaluation, governance hooks
-tunescope       →   Spotify listening dashboard with mood detection
-gym-loop        →   minimal, opinionated workout tracker
+rag-kitchen     →   RAG cookbook for enterprise — grounding,
+                    eval harnesses, governance hooks
+llm-evals       →   opinionated LLM eval harness — hallucination,
+                    faithfulness, RAG-grounding scores
+drift-watch     →   drift detection toolkit for production ML —
+                    distribution shifts, concept drift, alerts
+agent-lab       →   multi-agent experiments with LangGraph —
+                    planner / executor / critic patterns
 ```
+
+</td>
+<td valign="top" width="50%">
+
+**`Fun / personal`**
+
+```
+tunescope       →   Spotify listening dashboard with mood detection
+                    (data + music = my Sundays)
+kino            →   couples movie picker with mood-aware
+                    recommendations — built in the spirit of amory
+gym-loop        →   minimal, opinionated workout tracker
+                    (the gym isn't going to log itself)
+playlist-mood   →   Spotify playlist generator from a vibe prompt —
+                    LLM + audio features
+```
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-### `06 ─ How I work`
+### `05 ─ How I work`
 
 ```
 1.  Build systems, not scripts        ─  versioning, monitoring, tests, docs from day one
