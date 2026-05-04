@@ -111,36 +111,62 @@ End-to-end MLOps toolkit: multi-backend training, calibration, ensembles, MLflow
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="25%">
 
-**`ML / AI`**
+`rag-kitchen` &nbsp; ![](https://img.shields.io/badge/-ML%2FAI-0F0F14?style=flat-square&labelColor=0F0F14&color=00FFD1)
 
-```
-rag-kitchen     →   RAG cookbook for enterprise — grounding,
-                    eval harnesses, governance hooks
-llm-evals       →   opinionated LLM eval harness — hallucination,
-                    faithfulness, RAG-grounding scores
-drift-watch     →   drift detection toolkit for production ML —
-                    distribution shifts, concept drift, alerts
-agent-lab       →   multi-agent experiments with LangGraph —
-                    planner / executor / critic patterns
-```
+<sub>RAG cookbook for enterprise data — grounding, eval, governance hooks.</sub>
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="25%">
 
-**`Fun / personal`**
+`llm-evals` &nbsp; ![](https://img.shields.io/badge/-ML%2FAI-0F0F14?style=flat-square&labelColor=0F0F14&color=00FFD1)
 
-```
-tunescope       →   Spotify listening dashboard with mood detection
-                    (data + music = my Sundays)
-kino            →   couples movie picker with mood-aware
-                    recommendations — built in the spirit of amory
-gym-loop        →   minimal, opinionated workout tracker
-                    (the gym isn't going to log itself)
-playlist-mood   →   Spotify playlist generator from a vibe prompt —
-                    LLM + audio features
-```
+<sub>LLM eval harness — hallucination, faithfulness, RAG grounding.</sub>
+
+</td>
+<td valign="top" width="25%">
+
+`drift-watch` &nbsp; ![](https://img.shields.io/badge/-ML%2FAI-0F0F14?style=flat-square&labelColor=0F0F14&color=00FFD1)
+
+<sub>Drift detection for production ML — distribution & concept shift.</sub>
+
+</td>
+<td valign="top" width="25%">
+
+`agent-lab` &nbsp; ![](https://img.shields.io/badge/-ML%2FAI-0F0F14?style=flat-square&labelColor=0F0F14&color=00FFD1)
+
+<sub>Multi-agent experiments with LangGraph — planner / executor / critic.</sub>
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="25%">
+
+`tunescope` &nbsp; ![](https://img.shields.io/badge/-Personal-0F0F14?style=flat-square&labelColor=0F0F14&color=A78BFA)
+
+<sub>Spotify listening dashboard with mood detection — data + music.</sub>
+
+</td>
+<td valign="top" width="25%">
+
+`kino` &nbsp; ![](https://img.shields.io/badge/-Personal-0F0F14?style=flat-square&labelColor=0F0F14&color=A78BFA)
+
+<sub>Couples movie picker with mood-aware recs — built like amory.</sub>
+
+</td>
+<td valign="top" width="25%">
+
+`gym-loop` &nbsp; ![](https://img.shields.io/badge/-Personal-0F0F14?style=flat-square&labelColor=0F0F14&color=A78BFA)
+
+<sub>Minimal workout tracker — the gym isn't going to log itself.</sub>
+
+</td>
+<td valign="top" width="25%">
+
+`playlist-mood` &nbsp; ![](https://img.shields.io/badge/-Personal-0F0F14?style=flat-square&labelColor=0F0F14&color=A78BFA)
+
+<sub>Spotify playlist generator from a vibe prompt — LLM + audio features.</sub>
 
 </td>
 </tr>
