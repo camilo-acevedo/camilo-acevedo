@@ -116,16 +116,17 @@ gym-loop        →   minimal, opinionated workout tracker
 
 <br/>
 
-### `06 ─ On GitHub`
+### `06 ─ How I work`
 
-<a href="https://github.com/camilo-acevedo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=camilo-acevedo&hide_border=true&bg_color=00000000&title_color=00FFD1&text_color=8B8B95&icon_color=A78BFA&include_all_commits=true&hide=contribs&card_width=480" />
-</a>
-<a href="https://github.com/camilo-acevedo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilo-acevedo&layout=compact&hide_border=true&bg_color=00000000&title_color=00FFD1&text_color=8B8B95&card_width=320" />
-</a>
+```
+1.  Build systems, not scripts        ─  versioning, monitoring, tests, docs from day one
+2.  End-to-end ownership              ─  deployment is where most ML projects actually break
+3.  Business impact > F1 score        ─  if a metric doesn't move a revenue number, it's the wrong metric
+4.  Translate, don't gatekeep         ─  engineers, data, stakeholders — bring everyone in
+5.  Stay until production             ─  not "demoed" in a slide. Running. With users.
+```
 
-<br/><br/>
+<br/>
 
 ---
 
