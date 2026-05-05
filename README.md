@@ -124,7 +124,13 @@ Token-saving skills for Claude Code — CODEMAP, file-summary cache, run-quiet l
 </td>
 <td valign="top" width="33%">
 
-&nbsp;
+#### `vi.` flightrisk
+
+Python · LightGBM · lifelines · scikit-survival · econml · MLflow · FastAPI · Streamlit
+
+Honest churn modelling on real public data — risk, survival, and uplift trained side-by-side on KKBox + Orange Belgium RCT, scored in **dollars** by a campaign ROI simulator. Calibrated GBMs, Cox / RSF, T/X/DR-learners + CausalForestDML. **76 unit tests**, dockerised API, Streamlit demo.
+
+[`Repo →`](https://github.com/camilo-acevedo/flightrisk) · [`Docs →`](https://camilo-acevedo.github.io/flightrisk/)
 
 </td>
 </tr>
