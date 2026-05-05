@@ -5,10 +5,6 @@
 
 <div align="center">
 
-<img src="./assets/avatar.jpg" alt="Camilo Acevedo" width="180" />
-
-<br/><br/>
-
 # Camilo Acevedo
 
 #### Mid Level Data Scientist & ML Engineer
@@ -103,6 +99,35 @@ End-to-end MLOps toolkit: multi-backend training, calibration, ensembles, MLflow
 
 </td>
 </tr>
+<tr>
+<td valign="top" width="33%">
+
+#### `iv.` astraeval
+
+Python · SQLite · Pydantic · OpenAI · Anthropic · Ollama
+
+Reproducible LLM eval harness — run manifests, prompt hashing, SQLite caching. Re-run a benchmark weeks later and get the same numbers, or know exactly what drifted. Multi-provider, cost-aware, CI-friendly.
+
+[`Repo →`](https://github.com/camilo-acevedo/astraeval)
+
+</td>
+<td valign="top" width="33%">
+
+#### `v.` claude-skills
+
+Python · Bash · Markdown
+
+Token-saving skills for Claude Code — CODEMAP, file-summary cache, run-quiet log capture, diff / log / test-failures extractors, session handoff, answer cache. Eleven skills, used daily on real engagements.
+
+[`Repo →`](https://github.com/camilo-acevedo/claude-skills)
+
+</td>
+<td valign="top" width="33%">
+
+&nbsp;
+
+</td>
+</tr>
 </table>
 
 <br/>
@@ -120,13 +145,6 @@ End-to-end MLOps toolkit: multi-backend training, calibration, ensembles, MLflow
 </td>
 <td valign="top" width="25%">
 
-`llm-evals` &nbsp; ![](https://img.shields.io/badge/-ML%2FAI-0F0F14?style=flat-square&labelColor=0F0F14&color=00FFD1)
-
-<sub>LLM eval harness — hallucination, faithfulness, RAG grounding.</sub>
-
-</td>
-<td valign="top" width="25%">
-
 `drift-watch` &nbsp; ![](https://img.shields.io/badge/-ML%2FAI-0F0F14?style=flat-square&labelColor=0F0F14&color=00FFD1)
 
 <sub>Drift detection for production ML — distribution & concept shift.</sub>
@@ -139,8 +157,6 @@ End-to-end MLOps toolkit: multi-backend training, calibration, ensembles, MLflow
 <sub>Multi-agent experiments with LangGraph — planner / executor / critic.</sub>
 
 </td>
-</tr>
-<tr>
 <td valign="top" width="25%">
 
 `tunescope` &nbsp; ![](https://img.shields.io/badge/-Personal-0F0F14?style=flat-square&labelColor=0F0F14&color=A78BFA)
@@ -148,6 +164,8 @@ End-to-end MLOps toolkit: multi-backend training, calibration, ensembles, MLflow
 <sub>Spotify listening dashboard with mood detection — data + music.</sub>
 
 </td>
+</tr>
+<tr>
 <td valign="top" width="25%">
 
 `kino` &nbsp; ![](https://img.shields.io/badge/-Personal-0F0F14?style=flat-square&labelColor=0F0F14&color=A78BFA)
@@ -167,6 +185,11 @@ End-to-end MLOps toolkit: multi-backend training, calibration, ensembles, MLflow
 `playlist-mood` &nbsp; ![](https://img.shields.io/badge/-Personal-0F0F14?style=flat-square&labelColor=0F0F14&color=A78BFA)
 
 <sub>Spotify playlist generator from a vibe prompt — LLM + audio features.</sub>
+
+</td>
+<td valign="top" width="25%">
+
+&nbsp;
 
 </td>
 </tr>
