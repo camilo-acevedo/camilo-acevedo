@@ -132,31 +132,86 @@ Token-saving skills for Claude Code — CODEMAP, file-summary cache, run-quiet l
 
 <br/>
 
-#### Coming soon
+#### Coming soon — ML / AI
 
 <table>
 <tr>
-<td valign="top" width="25%">
+<td valign="top" width="33%">
 
 `rag-kitchen` &nbsp; ![](https://img.shields.io/badge/-ML%2FAI-0F0F14?style=flat-square&labelColor=0F0F14&color=00FFD1)
 
-<sub>RAG cookbook for enterprise data — grounding, eval, governance hooks.</sub>
+<sub>RAG cookbook for enterprise data — grounding, eval harness, governance hooks for regulated domains.</sub>
 
 </td>
-<td valign="top" width="25%">
-
-`drift-watch` &nbsp; ![](https://img.shields.io/badge/-ML%2FAI-0F0F14?style=flat-square&labelColor=0F0F14&color=00FFD1)
-
-<sub>Drift detection for production ML — distribution & concept shift.</sub>
-
-</td>
-<td valign="top" width="25%">
+<td valign="top" width="33%">
 
 `agent-lab` &nbsp; ![](https://img.shields.io/badge/-ML%2FAI-0F0F14?style=flat-square&labelColor=0F0F14&color=00FFD1)
 
-<sub>Multi-agent experiments with LangGraph — planner / executor / critic.</sub>
+<sub>Multi-agent experiments with LangGraph — planner / executor / critic with replayable traces.</sub>
 
 </td>
+<td valign="top" width="33%">
+
+`drift-watch` &nbsp; ![](https://img.shields.io/badge/-ML%2FAI-0F0F14?style=flat-square&labelColor=0F0F14&color=00FFD1)
+
+<sub>Drift detection for production ML — distribution, concept and label shift with PSI / KS / KL alerts.</sub>
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
+
+`hybrid-retrieval` &nbsp; ![](https://img.shields.io/badge/-ML%2FAI-0F0F14?style=flat-square&labelColor=0F0F14&color=00FFD1)
+
+<sub>BM25 + dense + cross-encoder reranking — the RAG stack that actually beats naive vector search.</sub>
+
+</td>
+<td valign="top" width="33%">
+
+`llm-router` &nbsp; ![](https://img.shields.io/badge/-ML%2FAI-0F0F14?style=flat-square&labelColor=0F0F14&color=00FFD1)
+
+<sub>Cost-aware model routing — cheap-first, escalate to frontier models on uncertainty or low confidence.</sub>
+
+</td>
+<td valign="top" width="33%">
+
+`semantic-cache` &nbsp; ![](https://img.shields.io/badge/-ML%2FAI-0F0F14?style=flat-square&labelColor=0F0F14&color=00FFD1)
+
+<sub>Embedding-based response cache for LLM apps — kill duplicate spend on near-identical prompts.</sub>
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
+
+`graph-rag` &nbsp; ![](https://img.shields.io/badge/-ML%2FAI-0F0F14?style=flat-square&labelColor=0F0F14&color=00FFD1)
+
+<sub>Knowledge-graph augmented retrieval — relations and multi-hop reasoning beyond chunked vector search.</sub>
+
+</td>
+<td valign="top" width="33%">
+
+`guardrails-lite` &nbsp; ![](https://img.shields.io/badge/-ML%2FAI-0F0F14?style=flat-square&labelColor=0F0F14&color=00FFD1)
+
+<sub>PII redaction + content moderation + jailbreak detection for LLM pipelines — sub-100ms overhead.</sub>
+
+</td>
+<td valign="top" width="33%">
+
+`lora-lab` &nbsp; ![](https://img.shields.io/badge/-ML%2FAI-0F0F14?style=flat-square&labelColor=0F0F14&color=00FFD1)
+
+<sub>LoRA / QLoRA fine-tuning recipes — domain adapters that actually ship to production, not notebooks.</sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+#### Coming soon — Personal
+
+<table>
+<tr>
 <td valign="top" width="25%">
 
 `tunescope` &nbsp; ![](https://img.shields.io/badge/-Personal-0F0F14?style=flat-square&labelColor=0F0F14&color=A78BFA)
@@ -164,8 +219,6 @@ Token-saving skills for Claude Code — CODEMAP, file-summary cache, run-quiet l
 <sub>Spotify listening dashboard with mood detection — data + music.</sub>
 
 </td>
-</tr>
-<tr>
 <td valign="top" width="25%">
 
 `kino` &nbsp; ![](https://img.shields.io/badge/-Personal-0F0F14?style=flat-square&labelColor=0F0F14&color=A78BFA)
@@ -185,11 +238,6 @@ Token-saving skills for Claude Code — CODEMAP, file-summary cache, run-quiet l
 `playlist-mood` &nbsp; ![](https://img.shields.io/badge/-Personal-0F0F14?style=flat-square&labelColor=0F0F14&color=A78BFA)
 
 <sub>Spotify playlist generator from a vibe prompt — LLM + audio features.</sub>
-
-</td>
-<td valign="top" width="25%">
-
-&nbsp;
 
 </td>
 </tr>
