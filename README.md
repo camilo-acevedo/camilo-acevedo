@@ -204,6 +204,29 @@ Token-saving skills for Claude Code — CODEMAP, file-summary cache, run-quiet l
 
 </td>
 </tr>
+<tr>
+<td valign="top" width="33%">
+
+`churn-forge` &nbsp; ![](https://img.shields.io/badge/-Modeling-0F0F14?style=flat-square&labelColor=0F0F14&color=00FFD1)
+
+<sub>Telco churn modeling — survival analysis (Cox / DeepHit) + gradient boosting + uplift trees for retention targeting that actually moves revenue.</sub>
+
+</td>
+<td valign="top" width="33%">
+
+`fraud-net` &nbsp; ![](https://img.shields.io/badge/-Modeling-0F0F14?style=flat-square&labelColor=0F0F14&color=00FFD1)
+
+<sub>Graph neural networks for fraud detection — heterogeneous transaction graphs, GraphSAGE / GAT, real-time inference under 50ms.</sub>
+
+</td>
+<td valign="top" width="33%">
+
+`time-fusion` &nbsp; ![](https://img.shields.io/badge/-Modeling-0F0F14?style=flat-square&labelColor=0F0F14&color=00FFD1)
+
+<sub>Probabilistic forecasting with Temporal Fusion Transformer / N-BEATS / DeepAR — quantile loss, ensembled, calibrated intervals.</sub>
+
+</td>
+</tr>
 </table>
 
 <br/>
@@ -238,6 +261,36 @@ Token-saving skills for Claude Code — CODEMAP, file-summary cache, run-quiet l
 `playlist-mood` &nbsp; ![](https://img.shields.io/badge/-Personal-0F0F14?style=flat-square&labelColor=0F0F14&color=A78BFA)
 
 <sub>Spotify playlist generator from a vibe prompt — LLM + audio features.</sub>
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="25%">
+
+`gan-couture` &nbsp; ![](https://img.shields.io/badge/-Personal-0F0F14?style=flat-square&labelColor=0F0F14&color=A78BFA)
+
+<sub>Synthetic fashion with StyleGAN — outfit ideas you've never seen, tagged and searchable.</sub>
+
+</td>
+<td valign="top" width="25%">
+
+`pomodoro-cli` &nbsp; ![](https://img.shields.io/badge/-Personal-0F0F14?style=flat-square&labelColor=0F0F14&color=A78BFA)
+
+<sub>Terminal pomodoro in Python — focus / break loops, per-project stats, no Electron.</sub>
+
+</td>
+<td valign="top" width="25%">
+
+`coffee-log` &nbsp; ![](https://img.shields.io/badge/-Personal-0F0F14?style=flat-square&labelColor=0F0F14&color=A78BFA)
+
+<sub>CLI coffee brew journal — beans, dose, grind, notes, with weekly digest.</sub>
+
+</td>
+<td valign="top" width="25%">
+
+`recipe-shuffle` &nbsp; ![](https://img.shields.io/badge/-Personal-0F0F14?style=flat-square&labelColor=0F0F14&color=A78BFA)
+
+<sub>Random recipe picker for indecisive couples — pantry-aware, vetoes per person.</sub>
 
 </td>
 </tr>
